@@ -35,10 +35,4 @@ This project carries out an end-to-end Exploratory Data Analysis (EDA) on over 1
 - **Review Drivers:** A strong positive correlation exists between total reviews and installs, emphasizing the importance of in-app review prompts.
 - **Pricing Thresholds:** Paid apps priced above $10 experience a sharp decline in downloads, particularly within youth-targeted categories.
 
----
-
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/Google-Play-Store-Data-Analysis.git](https://github.com/YOUR-USERNAME/Google-Play-Store-Data-Analysis.git)
    
